@@ -1,5 +1,5 @@
 
-<h1 left="center">Hi 👋, I'm Woong, Jung</h1>
+<h1 left="center">Hi 👋, I'm Jung, Woong</h1>
 <h3 left="center">A passionate developer from South Korea.</h3>
 <br>
 <br>
