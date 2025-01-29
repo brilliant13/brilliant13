@@ -23,19 +23,19 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <div>
     <details>
       <summary>[2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y (리더십 경험) </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsenior%5Djpg.jpg?token=GHSAT0AAAAAAC6A2DYYHAVKCFQ7CNEJWLJOZ42LKZQ" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsenior%5Djpg.jpg" width="400"/>
     </details>
    </div>
     <details>
       <summary>[2020. 04. 21] 모범 카투사 선정 및 표창장 수여 (모범적이고 성실한 복무 태도로 인정)  </summary>
-       <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg?token=GHSAT0AAAAAAC6A2DYZU3JTGAY4DBTWVIKUZ42LMOA" alt="Senior KATUSA Certificate" width="400"/>
+       <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg" alt="Senior KATUSA Certificate" width="400"/>
     </details>
     
 -&nbsp;[2021. 12. 06 - 2023. 11. 20] 고교 이과 수학학원 강사 및 개인 과외
  <div>
     <details>
       <summary>[2023. 05. 22] IBK 기업은행 장학생 선정 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bibk%5D.jpg?token=GHSAT0AAAAAAC6A2DYYJQKQZSIRQVRYWPCCZ42K5OQ" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bibk%5D.jpg" width="400"/>
     </details>
  </div>
 
@@ -43,7 +43,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  <div>
     <details>
       <summary>[2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg?token=GHSAT0AAAAAAC6A2DYZWPZPF5VKFLCCZP2GZ42LMCQ" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg" width="400"/>
     </details>
  </div>
 
@@ -51,13 +51,13 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  <div>
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6C2YPVURVJ4ELJ4UE2O2TOZ42MQQQ" width="800"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800"/>
     </details>
  </div>
  <div>
     <details>
       <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg?token=GHSAT0AAAAAAC6A2DYZ4DW3NRD4HONZMTGOZ42LLWQ" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
     </details>
  </div>
 <br>
@@ -127,7 +127,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 </p>
 <br>
 <br>
-
+ 
 
 ### 👥 Team Projects  
 > 2024.09 - 2024.11 (3 개월) 한성SW중심대학기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
@@ -135,7 +135,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 <details>
   <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
   </summary>
-<img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6C2YPVURVJ4ELJ4UE2O2TOZ42MQQQ" width="750" alt="best_dou"/><br>
+<img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="750" alt="best_dou"/><br>
 
  #### 📝 프로젝트 소개
 우리 프로젝트는 단순히 문자 서비스를 제공하는 것을 넘어, **사용자와 지인의 관계**와 **개인적인 특징**을 반영하여 더욱 의미 있는 교류를 가능하게 합니다. 지인의 성격,지인과의 추억, 말투, 관계를 사전에 설정하여, 형식적인 단체 문자 대신 **상대방이 직접 작성한 것처럼 느껴지는 따뜻한 메시지**를 보낼 수 있습니다.
@@ -152,7 +152,11 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   메시지 톤, 감정, 배경 등을 선택하여 지인에게 최적화된 콘텐츠를 만듭니다.
 - **다중 사용자 관리**  
   주소록에서 여러 명의 지인을 선택하여 각각 맞춤화된 메시지를 개별적으로 발송할 수 있습니다.
- 
+
+#### 🖥️ 프로젝트 데모 영상
+  <a href="https://youtu.be/-emWRL2GOsk" target="_blank">
+  <img src="https://img.youtube.com/vi/-emWRL2GOsk/0.jpg" alt="데모 영상 썸네일" width="700"/>
+  </a>
 </details>
 
 <br><br>
