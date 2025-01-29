@@ -13,6 +13,21 @@ A passionate developer from South Korea.
 > 2022.03 - Present  
 > B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)
 
+ ### 🏆 Achievements and Experiences
+
+- [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무  
+  - [2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y  
+    <details>
+      <summary>Click to view the certificate</summary>
+      <img src="[https://raw.githubusercontent.com/username/repository/main/path/to/image1.jpg](https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg)" alt="Senior KATUSA Certificate" width="600"/>
+    </details>
+  - [2020. 04. 21] 3월 모범 카투사 선정 및 표창장 수여  
+    <details>
+      <summary>Click to view the certificate</summary>
+      <img src="https://raw.githubusercontent.com/username/repository/main/path/to/image2.jpg" alt="Model KATUSA Certificate" width="600"/>
+    </details>
+
+
 
 ### 🏆 Achievements and Experiences  
 - [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
