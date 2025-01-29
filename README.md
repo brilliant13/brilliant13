@@ -39,7 +39,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
     </details>
  </div>
 
--&nbsp;[2023. 1,2학기 2024 1학기] 교내 성적 우수 장학생 선정
+-&nbsp;[2023. 1,2학기, 2024. 1학기] 교내 성적 우수 장학생 선정
  <div>
     <details>
       <summary>[2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) </summary>
