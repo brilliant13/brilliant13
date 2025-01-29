@@ -130,7 +130,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  
 
 ### 👥 Team Projects  
-> 2024.09 - 2024.11 (3 개월) 한성SW중심대학기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+> 2024.09 - 2024.11 (3 개월) 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
 
 <details>
   <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
