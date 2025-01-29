@@ -51,7 +51,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  <div>
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6A2DYYPAG3HAGWS7YHHYRIZ42LLFQ" width="800"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6C2YPVURVJ4ELJ4UE2O2TOZ42MQQQ" width="800"/>
     </details>
  </div>
  <div>
@@ -130,6 +130,41 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 
 
 ### 👥 Team Projects  
+> 2024.09 - 2024.11 (3 개월) 한성SW중심대학기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+
+<details>
+  <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
+  </summary>
+<img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6C2YPVURVJ4ELJ4UE2O2TOZ42MQQQ" width="750" alt="best_dou"/><br>
+
+ #### 📝 프로젝트 소개
+우리 프로젝트는 단순히 문자 서비스를 제공하는 것을 넘어, **사용자와 지인의 관계**와 **개인적인 특징**을 반영하여 더욱 의미 있는 교류를 가능하게 합니다. 지인의 성격,지인과의 추억, 말투, 관계를 사전에 설정하여, 형식적인 단체 문자 대신 **상대방이 직접 작성한 것처럼 느껴지는 따뜻한 메시지**를 보낼 수 있습니다.
+또한, 문자 내용에 따라 자동으로 이미지를 생성하거나, 직접 이미지를 업로드할 수 있어 **시각적으로 더욱 매력적인 메시지**를 전달할 수 있습니다.
+ 
+ #### 🌟 주요 기능
+- **개인 맞춤 문자 서비스**  
+  지인과의 관계, 지인의 특징, 말투 등을 설정하여 개인화된 문자를 작성 및 전송합니다.
+- **문자 및 이미지 자동 생성**  
+  입력한 텍스트를 기반으로 AI를 활용하여 문자와 이미지를 자동 생성합니다.
+- **이미지 업로드 및 관리**  
+  이미지를 업로드하거나, 드래그 앤 드롭 방식으로 간편히 추가할 수 있습니다.
+- **다양한 설정 옵션**  
+  메시지 톤, 감정, 배경 등을 선택하여 지인에게 최적화된 콘텐츠를 만듭니다.
+- **다중 사용자 관리**  
+  주소록에서 여러 명의 지인을 선택하여 각각 맞춤화된 메시지를 개별적으로 발송할 수 있습니다.
+ 
+</details>
+
+<br><br>
+
+
+<!-- 
+ 
+
+-->
+
+
+
 ### 🌱 Personal Projects 
 ### 📞 Contact Me  
 - **kaka366@naver.com**
