@@ -9,13 +9,13 @@
 Hi, I'm Woong Jung, a passionate developer from South Korea.<br>
 I originally majored in chemistry but later switched to computer science. I love math and have experience working as a lecturer.<br>
 Currently, I'm deeply immersed in software development and absolutely loving it. I enjoy exploring various technologies, working on different projects, and preparing for coding challenges. I'm always eager to expand my skill set and grow as a developer by tackling diverse challenges.
-
-
+<br>
 
 ### 🎓 Education
 <!-- 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University-->
 > 2022.03 - Present  
 > B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)
+<br>
 
  ### 🏆 Achievements and Experiences
 
@@ -60,14 +60,8 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
      <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
     </details>
  </div>
-
-
-
-
-
-
-
-
+<br>
+<!-- 
 ### 🏆 Achievements and Experiences  
 - [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
   - [2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y (리더십 경험)
@@ -82,37 +76,9 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <summary>Click to view Senior KATUSA 상장</summary>
   <img src="이미지 URL" alt="Senior KATUSA 상장" width="600"/>
 </details>
-
-
-### 🎓 Education
-### 🎓 Education
-### 🎓 Education
-
-
-<h1 left="center">Hi 👋, I'm Jung, Woong</h1>
-<h3 left="center">A passionate developer from South Korea.</h3>
-<br>
-<br>
-
-
-## 📫 *How to reach me*
--  **kaka366@naver.com**
-
-<!-- <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **kaka366@naver.com**
-## About me 
-<p align="left">
-</p>
-#### Main Skills
-<h3 align="left">Languages and Tools:</h3>
-  # 🎮 *Teck Skills*
 -->
-<br>
-<br>
 
-
-## 🎮 *Teck Skills*
-
+### 💻 Tech Skills  
 #### Main Skills
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;
@@ -129,7 +95,6 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
   <br>
 </p>
-<br>
 
 #### Used at least Once Skills
 <p>
@@ -162,15 +127,24 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 </p>
 <br>
 <br>
+
+
+### 👥 Team Projects  
+### 🌱 Personal Projects 
+### 📞 Contact Me  
+- **kaka366@naver.com**
+<br>
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliant13&show_icons=true&locale=en&layout=compact" alt="brilliant13" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&theme=gotham" alt="brilliant13" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brilliant13&label=Profile%20views&color=0e75b6&style=flat" alt="brilliant13" /> </p>
 -->
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" />
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brilliant13&label=Profile%20views&color=0e75b6&style=flat" alt="brilliant13" /> </p>
+</div><br><br><br><br>
+
+
