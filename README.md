@@ -23,19 +23,19 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <div>
     <details>
       <summary>[2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y (리더십 경험) </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5Bsenior%5Djpg.jpg" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsenior%5Djpg.jpg?token=GHSAT0AAAAAAC6A2DYYHAVKCFQ7CNEJWLJOZ42LKZQ" width="400"/>
     </details>
    </div>
     <details>
       <summary>[2020. 04. 21] 모범 카투사 선정 및 표창장 수여 (모범적이고 성실한 복무 태도로 인정)  </summary>
-       <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg" alt="Senior KATUSA Certificate" width="400"/>
+       <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg?token=GHSAT0AAAAAAC6A2DYZU3JTGAY4DBTWVIKUZ42LMOA" alt="Senior KATUSA Certificate" width="400"/>
     </details>
     
 -&nbsp;[2021. 12. 06 - 2023. 11. 20] 고교 이과 수학학원 강사 및 개인 과외
  <div>
     <details>
       <summary>[2023. 05. 22] IBK 기업은행 장학생 선정 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5Bibk%5D.jpg" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bibk%5D.jpg?token=GHSAT0AAAAAAC6A2DYYJQKQZSIRQVRYWPCCZ42K5OQ" width="400"/>
     </details>
  </div>
 
@@ -43,7 +43,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  <div>
     <details>
       <summary>[2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) </summary>
-     <img src="[https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5Bibk%5D.jpg](https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg)" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg?token=GHSAT0AAAAAAC6A2DYZWPZPF5VKFLCCZP2GZ42LMCQ" width="400"/>
     </details>
  </div>
 
@@ -51,13 +51,13 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
  <div>
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5Bsw%5D.jpg" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg?token=GHSAT0AAAAAAC6A2DYYPAG3HAGWS7YHHYRIZ42LLFQ" width="400"/>
     </details>
  </div>
  <div>
     <details>
       <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/brilliant13/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg?token=GHSAT0AAAAAAC6A2DYZ4DW3NRD4HONZMTGOZ42LLWQ" width="400"/>
     </details>
  </div>
 <br>
