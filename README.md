@@ -1,3 +1,39 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:ADD8E6,100:FFFFFF&height=150&section=header&text=&fontSize=60&fontAlign=50&fontAlignY=40" width="100%"/>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrilliant13&count_bg=%2389CFF0&title_bg=%23ADD8E6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+### 👋 About Me
+Hi, I'm Jung, Woong. <br>
+A passionate developer from South Korea.
+### 🎓 Education
+<!-- 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University-->
+> 2022.03 - Present  
+> B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)
+
+
+### 🏆 Achievements and Experiences  
+- [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
+  - [2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y (리더십 경험)
+  - [2020. 04. 21] 3월 모범 카투사 선정 및 표창장 수여 (모범적이고 성실한 복무 태도로 인정) 
+- [2021. 12. 06 - 2023. 11. 20] 고교 이과 수학학원 강사 및 개인 과외
+- [2023. 05. 22] IBK 기업은행 장학생 선정
+- [2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) 
+- [2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상
+- [2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상
+  
+<details>
+  <summary>Click to view Senior KATUSA 상장</summary>
+  <img src="이미지 URL" alt="Senior KATUSA 상장" width="600"/>
+</details>
+
+
+### 🎓 Education
+### 🎓 Education
+### 🎓 Education
+
 
 <h1 left="center">Hi 👋, I'm Jung, Woong</h1>
 <h3 left="center">A passionate developer from South Korea.</h3>
@@ -72,11 +108,15 @@
 </p>
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliant13&show_icons=true&locale=en&layout=compact" alt="brilliant13" /></p>
-
+<!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliant13&show_icons=true&locale=en&layout=compact" alt="brilliant13" /></p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&theme=gotham" alt="brilliant13" /></p>
+-->
 
-
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilliant13&label=Profile%20views&color=0e75b6&style=flat" alt="brilliant13" /> </p>
