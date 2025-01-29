@@ -5,19 +5,18 @@
 
 
 
-### 👋 About Me
+## 👋 About Me
 Hi, I'm Woong Jung, a passionate developer from South Korea.<br>
 I originally majored in chemistry but later switched to computer science. I love math and have experience working as a lecturer.<br>
 Currently, I'm deeply immersed in software development and absolutely loving it. I enjoy exploring various technologies, working on different projects, and preparing for coding challenges. I'm always eager to expand my skill set and grow as a developer by tackling diverse challenges.
 <br>
 
-### 🎓 Education
+## 🎓 Education
 <!-- 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University-->
 > 2022.03 - Present  
-> B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)
-<br>
+> B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)<br>
 
- ### 🏆 Achievements and Experiences
+ ## 🏆 Achievements and Experiences
 
 -&nbsp;[2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
   <div>
@@ -47,7 +46,6 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
     </details>
  </div>
 
-
  <div>
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
@@ -60,7 +58,6 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
     </details>
  </div>
-<br>
 <!-- 
 ### 🏆 Achievements and Experiences  
 - [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
@@ -71,14 +68,13 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 - [2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) 
 - [2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상
 - [2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상
-  
 <details>
   <summary>Click to view Senior KATUSA 상장</summary>
   <img src="이미지 URL" alt="Senior KATUSA 상장" width="600"/>
 </details>
 -->
 
-### 💻 Tech Skills  
+## 💻 Tech Skills  
 #### Main Skills
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>&nbsp;
@@ -124,12 +120,9 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-</p>
-<br>
-<br>
- 
+</p><br>
 
-### 👥 Team Projects  
+## 👥 Team Projects  
 > 2024.09 - 2024.11 (3 개월) 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
 
 <details>
@@ -162,15 +155,8 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 <br><br>
 
 
-<!-- 
- 
-
--->
-
-
-
-### 🌱 Personal Projects 
-### 📞 Contact Me  
+## 🌱 Personal Projects 
+## 📞 Contact Me  
 - **kaka366@naver.com**
 <br>
 <!--
