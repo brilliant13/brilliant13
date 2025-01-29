@@ -72,14 +72,11 @@
 </p>
 <br>
 <br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliant13&show_icons=true&locale=en&layout=compact" alt="brilliant13" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&theme=gotham" alt="brilliant13" /></p>
 
 
-
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliant13&show_icons=true&locale=en&layout=compact" alt="brilliant13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilliant13&label=Profile%20views&color=0e75b6&style=flat" alt="brilliant13" /> </p>
