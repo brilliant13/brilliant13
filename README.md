@@ -6,8 +6,12 @@
 
 
 ### 👋 About Me
-Hi, I'm Jung, Woong. <br>
-A passionate developer from South Korea.
+Hi, I'm Woong Jung, a passionate developer from South Korea.<br>
+I originally majored in chemistry but later switched to computer science. I love math and have experience working as a lecturer.<br>
+Currently, I'm deeply immersed in software development and absolutely loving it. I enjoy exploring various technologies, working on different projects, and preparing for coding challenges. I'm always eager to expand my skill set and grow as a developer by tackling diverse challenges.
+
+
+
 ### 🎓 Education
 <!-- 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University-->
 > 2022.03 - Present  
