@@ -50,6 +50,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800"/>
+     <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg" width="400/>
     </details>
  </div>
  <div>
