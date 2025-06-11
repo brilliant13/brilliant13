@@ -59,6 +59,18 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
     </details>
  </div>
+  <div>
+    <details>
+      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
+<!--      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/> -->
+    </details>
+ </div>
+   <div>
+    <details>
+      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
+<!--      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/> -->
+    </details>
+ </div>
 <!-- 
 ### 🏆 Achievements and Experiences  
 - [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
