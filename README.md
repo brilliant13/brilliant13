@@ -165,7 +165,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   </a>
 </details>
 
-> 2024.09 - 2024.11 (3 개월) 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+> 2025.02 - 2025.05 (4 개월) 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
 
 <details>
   <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/brilliant13/best_dou_front">BrainTrace</a></strong>
