@@ -165,6 +165,42 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   </a>
 </details>
 
+> 2024.09 - 2024.11 (3 개월) 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+
+<details>
+  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/brilliant13/best_dou_front">BrainTrace</a></strong>
+  </summary>
+ ![image](https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1)
+<!-- <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="750" alt="best_dou"/>--> <br>
+
+
+
+ #### 📝 프로젝트 소개
+**Brain-Trace**는 PDF, 오디오, 텍스트 등 다양한 문서를 자동으로 분석하여 지식 그래프를 구축하고, 이를 기반으로 문맥 이해형 질문 응답을 제공하는 **온디바이스 AI 솔루션**입니다.  
+**외부 전송 없이 로컬에서 처리**되며, **출처 기반 응답**을 통해 신뢰성과 투명성을 동시에 제공합니다.
+
+ 
+ #### 🌟 주요 기능
+- **🔐 온디바이스 AI: 더 안전하게, 더 저렴하게**  
+  - 외부 전송 없이 완전 로컬 처리**
+  - 추가 비용 없이 프라이버시 보장**
+- **📖 출처 기반 응답**  
+  - 응답에 사용된 **핵심 노드(출처)**를 함께 제공하여 **신뢰성과 투명성 보장**
+- **🌐 Graph-RAG 기반 정밀 추론**  
+  - **질문과 유사한 노드 탐색 → 관계를 따라 논리적 경로 구성 → 구조화된 응답 생성**
+- **📂 자동 문서 업로드 & 지식그래프화**  
+  - PDF, 오디오, 텍스트 업로드만으로 **자동 분석 → 시각화 및 검색 가능**
+- **📄 노드 기반 문서 검색 기능**  
+  - 키워드 또는 개념어 입력 시, 관련 노드 및 문서 정보를 **유사도 기반으로 빠르게 검색**
+
+#### 🖥️ 프로젝트 데모 영상
+🎥 시연영상
+[![Brain-Trace 소개 영상](https://img.youtube.com/vi/Q0w4S_sMEaQ/0.jpg)](https://www.youtube.com/watch?v=Q0w4S_sMEaQ)
+
+🎥 Demo Video
+[![Brain-Trace Demo Video](https://img.youtube.com/vi/r6AdiX7SZkw/0.jpg)](https://www.youtube.com/watch?v=r6AdiX7SZkw)
+</details>
+
 <br><br>
 
 
