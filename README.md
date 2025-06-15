@@ -168,7 +168,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 > 2025.02 - 2025.05 (4 개월) 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
 
 <details>
-  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/brilliant13/best_dou_front">BrainTrace</a></strong></summary>
+  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">BrainTrace</a></strong></summary>
  <img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="best_dou"/> <br>
 
 
