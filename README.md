@@ -136,7 +136,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 </p>
 
 ## 👥 Team Projects  
-> 2024.09 - 2024.11 (3 개월) 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+> 2024.09 - 2024.11 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
 
 <details>
   <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
@@ -165,10 +165,10 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   </a>
 </details>
 
-> 2025.02 - 2025.05 (4 개월) 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
+> 2025.02 - 2025.05 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
 
 <details>
-  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">BrainTrace</a></strong></summary>
+  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">MuMu</a></strong></summary>
  <img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="best_dou"/> <br>
 
 
@@ -197,7 +197,77 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 [![Brain-Trace Demo Video](https://img.youtube.com/vi/r6AdiX7SZkw/0.jpg)](https://www.youtube.com/watch?v=r6AdiX7SZkw)
 </details>
 
+> 2025.02 - 2025.05 한성대학교 웹 캡스톤디자인 [팀:best_dao] </br>
+<details>
+  <summary><strong>AI 기반 개인화 단체문자 서비스 "For You" <a href="https://github.com/BestDAOU">best_dao</a></strong></summary>
+ <img src="https://github.com/brilliant13/portfolio/blob/main/73%E1%84%8C%E1%85%A9_%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%83%E1%85%A1%E1%84%8B%E1%85%A9.jpg" width="750" alt="best_dao"/> <br>
+
+
+## 📋 프로젝트 개요
+
+ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 AI 기반 개인화 단체문자 발송 플랫폼입니다. 획일적인 단체문자 대신, AI가 각 수신자의 특성과 관계를 분석하여 개인별 맞춤형 메시지를 자동 생성함으로써 고객 참여도와 전환율을 획기적으로 향상시킵니다.
+
+### 🎓 프로젝트 배경 및 목적
+현대 디지털 마케팅에서 개인화는 필수 요소가 되었지만, 기존 단체문자 서비스는 모든 수신자에게 동일한 메시지를 발송하여 낮은 참여율과 고객 이탈을 야기합니다. 본 프로젝트는 이러한 문제를 해결하기 위해 **AI 기술을 통한 개인화 메시지**라는 혁신적 접근방식을 제시합니다.
+
+### 🎯 비즈니스 가치
+
+- **고객 참여도 200% 향상**: 개인화된 메시지로 고객의 관심도 극대화
+- **업무 효율성 증대**: AI 자동화로 메시지 작성 시간 90% 단축
+- **브랜드 차별화**: 고객이 특별함을 느끼는 1:1 커뮤니케이션 경험 제공
+
+## 🎬 시연 영상
+
+### 📱 제품 데모
+[![ForU 시연 영상](https://img.youtube.com/vi/07zpJxMxpYQ/0.jpg)](https://youtu.be/e0_yZCZvwcs)
+
+
+> **2분만에 보는 ForU 핵심 기능**  
+> AI 개인화 메시지 생성부터 개인 맞춤화 발송까지 전체 워크플로우를 확인하세요.
+
+## ✨ 핵심 기능
+
+### 🤖 AI 기반 개인화 메시지 생성
+- **OpenAI GPT-4** 활용한 고품질 메시지 자동 생성
+- 수신자별 개인 정보, 관계, 상황 컨텍스트 반영
+
+### 🎨 AI 이미지 생성
+- **DALL-E 3** 기반 맞춤형 시각 콘텐츠 생성
+- 메시지 내용과 조화로운 개인화 이미지
+- 다양한 스타일과 테마 지원
+
+### 📱 뿌리오(Ppurio) SMS 연동
+- 안정적인 대량 문자 발송 인프라
+- 실시간 발송 상태 모니터링
+- 발송 결과 분석 및 리포팅
+
+- ## 🏗️ 기술 아키텍처
+
+### Frontend
+- **React 18+**: 현대적이고 반응형 사용자 인터페이스
+- **현대적 UI/UX**: 직관적인 대시보드 및 워크플로우
+
+### Backend
+- **Spring Boot 3.0+**: 견고하고 확장 가능한 REST API 서버
+- **Amazon EC2**: 고성능 클라우드 컴퓨팅 환경
+- **Swagger/OpenAPI**: 자동화된 API 문서화
+
+### Database
+- **MySQL**: 안정적인 관계형 데이터베이스
+- **Amazon RDS**: 관리형 데이터베이스 서비스로 고가용성 보장
+
+### External APIs
+- **OpenAI GPT-4**: 자연어 생성 및 텍스트 개인화
+- **뿌리오(Ppurio) API**: 안정적인 SMS 발송 서비스
+
+### DevOps & Collaboration
+- **GitHub**: 소스코드 버전 관리 및 협업
+- **CI/CD**: 자동화된 빌드 및 배포 파이프라인
+  
+</details>
+
 <br><br>
+
 
 
 ## 🌱 Personal Projects 
