@@ -62,13 +62,13 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
   <div>
     <details>
       <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
-<!--      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/> -->
+     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
     </details>
  </div>
    <div>
     <details>
       <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 퀄컴프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
-<!--      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/> -->
+     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8F%E1%85%AF%E1%86%AF%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
     </details>
  </div>
 <!-- 
