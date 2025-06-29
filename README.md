@@ -50,15 +50,18 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
     <details>
       <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상 </summary>
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800"/>
-     <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg" width="400/>
+     <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg" width="400"/>
     </details>
  </div>
+
+      
  <div>
     <details>
       <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상 </summary>
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
     </details>
  </div>
+ 
   <div>
     <details>
       <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
