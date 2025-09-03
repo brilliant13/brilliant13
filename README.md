@@ -3,7 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrilliant13&count_bg=%2389CFF0&title_bg=%23ADD8E6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 
 
@@ -279,6 +278,9 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 ## 📞 Contact Me  
 - **kaka366@naver.com**
 <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /></p>
