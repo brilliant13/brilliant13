@@ -279,7 +279,7 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 - **kaka366@naver.com**
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)-->
 
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" /></p>
