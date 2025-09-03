@@ -295,6 +295,7 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" />
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brilliant13&layout=compact&theme=default&hide_border=false" height="180" alt="brilliant13 top langs" />-->
 </div><br><br><br><br>
 
 
