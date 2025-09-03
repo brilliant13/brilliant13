@@ -269,8 +269,188 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 - **CI/CD**: 자동화된 빌드 및 배포 파이프라인
   
 </details>
+<br>
 
-<!--## 🌱 Personal Projects -->
+## 🌱 Personal Projects
+> 2023.10 - 2023.12 라즈베리파이 미니 프로젝트 </br>
+
+<details>
+  <summary><strong> 라즈베리파이와 Python을 활용한 IoT 전시 작품 관리 시스템 <a href="https://github.com/brilliant13/raspberrypi-iot-exhibit-manager">raspberrypi-iot-exhibit-manager</a></strong></summary>
+  
+# 🖼️ Raspberry Pi IoT Exhibit Manager
+
+> **라즈베리파이와 Python을 활용한 IoT 전시 작품 관리 시스템**  
+> 센서와 웹을 통해 전시 환경을 모니터링하고, 작품을 보호하며, 관리자가 전시 공간을 효과적으로 제어할 수 있도록 지원하는 IoT 프로젝트
+
+---
+
+## 📖 프로젝트 소개
+- **프로젝트명**: Raspberry Pi IoT Exhibit Manager  
+- **개발환경**: Raspberry Pi OS, Visual Studio Code (VSCode)  
+- **사용 기술**: Python, Flask, MQTT, OpenCV, Chart.js, HTML/CSS/JavaScript  
+- **하드웨어**: Raspberry Pi, 온습도 센서(HTU21D), 조도 센서(MCP3202), 초음파 센서, LED, 전광판, 웹캠, 블루투스 스피커, 스위치  
+- **제작자**: 정웅 (모바일 소프트웨어 트랙, 2271209)  
+
+**Raspberry Pi IoT Exhibit Manager**는 단순한 전시 조명 제어를 넘어,  
+**환경 모니터링, 작품 보호, 안내 시스템, 배경 음악 제어**를 모두 통합한 IoT 기반 관리 시스템입니다.  
+
+관리자는 웹 페이지를 통해 **온도·습도·조도 데이터를 실시간 확인**하고, 전시장의 조명과 전광판을 제어할 수 있습니다.  
+또한 **초음파 센서 + 카메라**를 활용해 관람객 접근을 감지하고, **경고 LED·경고음·전광판 경고 메시지**를 자동 실행해 보안을 강화합니다.  
+추가로, 스위치와 블루투스 스피커를 연결해 **배경 음악을 제어**할 수 있어, 전시장의 분위기를 조성하는 데 활용할 수 있습니다.  
+
+즉, 이 프로젝트는 **환경 제어 → 보안 감지 → 실시간 알림 → 전시 안내 → 배경 연출**로 이어지는  
+**전시 작품 관리의 선순환을 제공하는 종합 IoT 시스템**입니다.
+
+---
+
+## 🏗️ 시스템 구조
+![System Architecture](https://github.com/brilliant13/portfolio/blob/main/%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC.png)
+
+### 하드웨어 구성
+- **LED (11개)**: GPIO(4,6,17,22,27)  
+- **초음파 센서**: Trig = GPIO20, Echo = GPIO16  
+- **온습도 센서**: HTU21D (SCL1, SDA1)  
+- **조도 센서**: MCP3202 (SPICE0, SPIMISO, SPMOSI, SPISCLK)  
+- **웹 카메라**: USB 연결  
+- **블루투스 스피커**: 블루투스 페어링  
+- **스위치**: GPIO21  
+
+### 소프트웨어 구성
+- **Python**: 센서 및 장치 제어 로직  
+- **Flask**: 웹 서버, 브라우저 요청 처리  
+- **JavaScript**: 웹 UI 동적 제어, MQTT 메시지 송수신  
+- **HTML/CSS**: 관리 페이지 인터페이스 제공  
+
+---
+
+
+## 🛠️ 설치 모형
+![Setup Model](https://github.com/brilliant13/portfolio/blob/main/%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC2.png)
+
+---
+
+## ✨ 주요 기능
+### 🌡️ 환경 모니터링
+- 온습도 센서 데이터 실시간 측정 및 웹 그래프 표시  
+- 조도 센서를 이용한 조명 자동 제어  
+
+### 🚨 보안 경고 시스템
+- 초음파 센서로 관람객 접근 감지  
+- 경고 LED 점등 + 경고음 발생  
+- 전광판에 경고 메시지 출력  
+- 웹캠으로 관람객 촬영 후 관리자 페이지에 전송  
+
+### 💡 전시 안내 기능
+- 평상시: 작품 소개 화면 출력  
+- 경고 발생 시: 경고 화면 자동 표시  
+
+### 🎵 배경 음악 제어
+- 스위치 입력으로 재생 / 정지 / 다음 곡 제어  
+- 블루투스 스피커와 연동해 전시장 분위기 연출  
+
+---
+
+## 📸 실제 구현 모습
+![Implementation](https://github.com/brilliant13/portfolio/blob/main/%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A51.png)
+
+---
+
+## 🖼️ 시연 영상
+[![시연 영상](https://img.youtube.com/vi/uL25GMSyzM4/0.jpg)](https://youtu.be/uL25GMSyzM4)  
+👉 클릭하면 시연 영상을 볼 수 있습니다.
+
+---
+
+## 📂 프로젝트 구조
+```plaintext
+.
+├── app.py          # Flask 웹 서버
+├── mqtt.py         # MQTT 메시지 처리 및 센서 데이터 송수신
+├── circuit.py      # 센서/LED 제어 함수
+├── mysound.py      # 스위치 기반 음악 제어
+├── static/
+│   ├── myChart.js  # Chart.js 그래프
+│   ├── mqttio.js   # MQTT 통신 및 데이터 처리
+│   ├── myAlert.js  # 경고 전광판 제어
+├── templates/
+│   ├── temp.html   # 센서 데이터 모니터링 페이지
+│   └── temp2.html  # 작품 소개 & 경고 전광판 페이지
+└── README.md
+````
+
+---
+
+## ⚡ 실행 방법
+
+1. **라즈베리파이 환경 준비**
+
+   ```bash
+   sudo apt update && sudo apt upgrade -y
+   ```
+
+2. **하드웨어 연결**
+
+   * 온습도 센서, 조도 센서, 초음파 센서, LED, 스위치 → GPIO 핀
+   * 웹캠 USB 연결
+   * 블루투스 스피커 페어링 (`bluetoothctl`)
+
+3. **필수 라이브러리 설치**
+
+   ```bash
+   pip install flask paho-mqtt opencv-python pillow adafruit-circuitpython-htu21d spidev pygame
+   ```
+
+4. **MQTT 브로커 실행**
+
+   ```bash
+   sudo apt install mosquitto mosquitto-clients -y
+   mosquitto -v
+   ```
+
+5. **플라스크 서버 실행**
+
+   ```bash
+   python app.py
+   ```
+
+   * 접속: `http://라즈베리파이-IP:8080`
+
+6. **웹 페이지 활용**
+
+   * `temp.html` → 실시간 센서 데이터 모니터링
+   * `temp2.html` → 작품 소개 및 경고 전광판
+
+---
+
+## 📊 결과 및 배운 점
+
+* 라즈베리파이와 다양한 센서 연동을 통해 **IoT 환경 제어와 보안 시스템**을 직접 구현
+* Flask + MQTT를 통한 **실시간 웹 제어/모니터링** 경험
+* 오류 발생 시 문제를 분석하고 디버깅하며 **문제 해결 능력 향상**
+* IoT 기술이 **실제 전시 현장**에 어떻게 적용될 수 있는지 확인
+* 이 프로젝트는 **실시간 환경 관리 + 작품 보호 + 안내/연출 기능**을 통합한 IoT 전시 관리 시스템입니다.
+라즈베리파이와 Python을 통해 단순한 하드웨어 제어를 넘어,
+실제 활용 가능한 IoT 서비스 개발 경험을 쌓을 수 있었습니다.
+
+---
+
+</details>
+
+> 2025.02 - 2025.05 ios 영어공부 앱 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
+
+<details>
+  <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">MuMu</a></strong></summary>
+
+</details>
+
+> 2025.02 - 2025.05 한성대학교 웹 캡스톤디자인 [팀:best_dao] </br>
+<details>
+  <summary><strong>AI 기반 개인화 단체문자 서비스 "For You" <a href="https://github.com/BestDAOU">best_dao</a></strong></summary>
+
+  
+</details>
+
+
 ## 🌱 Coding Challenges
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strongdev77)](https://solved.ac/profile/strongdev77)
 <img src="http://mazandi.herokuapp.com/api?handle=strongdev77&theme=cold"/>
