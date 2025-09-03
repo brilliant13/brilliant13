@@ -269,12 +269,16 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 - **CI/CD**: 자동화된 빌드 및 배포 파이프라인
   
 </details>
+<br>
 
-<br><br>
+<!--## 🌱 Personal Projects -->
+## 🌱 Coding Challenges
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strongdev77)](https://solved.ac/profile/strongdev77)
+<img src="http://mazandi.herokuapp.com/api?handle=strongdev77&theme=cold"/>
+
+![strongdev77's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=strongdev77)
 
 
-
-## 🌱 Personal Projects 
 ## 📞 Contact Me  
 - **kaka366@naver.com**
 <br>
