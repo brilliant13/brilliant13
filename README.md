@@ -269,7 +269,6 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 - **CI/CD**: 자동화된 빌드 및 배포 파이프라인
   
 </details>
-<br>
 
 <!--## 🌱 Personal Projects -->
 ## 🌱 Coding Challenges
@@ -282,7 +281,7 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 ## 📞 Contact Me  
 - **kaka366@naver.com**
 <br>
-
+<br>
 <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)-->
 
 <!--
