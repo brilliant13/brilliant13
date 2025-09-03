@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:ADD8E6,100:FFFFFF&height=150&section=header&text=&fontSize=60&fontAlign=50&fontAlignY=40" width="100%"/>
-
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrilliant13&count_bg=%2389CFF0&title_bg=%23ADD8E6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbrilliant13?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 
 
