@@ -173,7 +173,8 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 
 <details>
   <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">MuMu</a></strong></summary>
- <img src="https://github.com/user-attachments/assets/3c98fd2c-b38e-4ede-9704-d518111129e1" width="750" alt="best_dou"/> <br>
+ <img src="https://raw.githubusercontent.com/brilliant13/portfolio/main/30%E1%84%8C%E1%85%A9_%E1%84%86%E1%85%AE%E1%84%86%E1%85%AE%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png" width="750" alt="mu_mu"/>
+ <br>
 
 
  #### 📝 프로젝트 소개
