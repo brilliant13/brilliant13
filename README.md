@@ -394,6 +394,8 @@ BE/
 
 ---
 
+<!--
+
 ## ⚡ 실행 방법
 
 1. **환경 준비**
@@ -431,6 +433,7 @@ BE/
 ```bash
    k6 run --vus 100 --duration 5m scripts/mixed-traffic.js
 ```
+-->
 
 ---
 
