@@ -387,8 +387,6 @@ BE/
 │   └── test/                     # 단위/통합 테스트
 ├── scripts/
 │   └── k6/                       # 부하 테스트 스크립트
-├── docs/
-│   └── images/                   # 다이어그램 이미지
 ├── docker-compose.yml
 ├── Dockerfile
 └── build.gradle
