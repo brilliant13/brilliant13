@@ -273,6 +273,230 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 <br>
 
 ## 🌱 Personal Projects
+
+> 2025.12 - B2B SaaS 백오피스 사이드 프로젝트 </br>
+
+<details>
+  <summary><strong> 인플루언서 마케팅 성과 추적 플랫폼 "CreatorLink" <a href="https://github.com/brilliant13/creatorlink">CreatorLink</a></strong></summary>
+  
+# 🔗 CreatorLink
+
+> **Spring Boot 기반 B2B SaaS 캠페인 성과 추적 플랫폼**  
+> 캠페인 × 크리에이터 × 채널 단위로 트래킹 링크를 발급하고, 클릭 로그를 수집·집계하여 광고주가 성과를 비교·분석할 수 있도록 지원하는 백엔드 시스템
+
+---
+
+## 📖 프로젝트 소개
+- **프로젝트명**: CreatorLink (크리에이터링크)  
+- **개발환경**: AWS EC2, Docker Compose  
+- **사용 기술**: Java 17, Spring Boot, MySQL, Redis, k6  
+- **인프라**: Docker, AWS EC2  
+- **개발자**: 정웅 (Backend Developer)  
+
+**CreatorLink**는 인플루언서 마케팅 캠페인의 성과를 정량적으로 추적하고 분석하는 B2B SaaS 플랫폼입니다.
+
+광고주는 여러 크리에이터에게 동시에 캠페인을 집행하지만, 성과가 여러 플랫폼/게시 위치에 분산되면서  
+**"누가/어디서/얼마나 성과를 냈는지"를 Excel로 수작업 집계**해야 하는 문제가 있었습니다.
+
+CreatorLink는 **캠페인 × 크리에이터 × 채널 조합으로 유일한 트래킹 링크를 발급**하고,  
+**클릭 로그를 자동 수집·집계**하여 **실시간 성과 비교 대시보드**를 제공합니다.
+
+즉, **링크 발급 → 클릭 추적 → 로그 수집 → 성과 집계 → 비교 분석**으로 이어지는  
+**인플루언서 마케팅 성과 관리의 전체 사이클을 자동화하는 백엔드 시스템**입니다.
+
+---
+
+## 🏗️ 시스템 아키텍처
+![System Context Diagram](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/images/3-1system-context.png)
+
+### 백엔드 레이어 구조
+![Backend Layered Architecture](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/images/3-2backend-layer-architecture.png)
+
+### 기술 스택
+- **Language**: Java 17  
+- **Framework**: Spring Boot 3.x, Spring Data JPA  
+- **Database**: MySQL 8.0 (메인 데이터), Redis 7.x (캐싱)  
+- **Infrastructure**: AWS EC2, Docker Compose  
+- **Testing**: k6 (부하 테스트)  
+
+---
+
+## 🗄️ 데이터베이스 설계
+![ERD](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/ERD.png)
+
+### 핵심 엔티티
+- **User (Advertiser)**: 광고주 계정
+- **Campaign**: 캠페인 단위
+- **Creator**: 크리에이터(인플루언서)
+- **Channel**: 플랫폼 + 게시 위치 (예: Instagram Story, YouTube Description)
+- **TrackingLink**: 캠페인 × 크리에이터 × 채널 조합 링크 (외부 공개 slug)
+- **ClickLog**: 클릭 이벤트 로그 (집계의 원천 데이터)
+
+---
+
+## ✨ 주요 기능
+### 🔗 트래킹 링크 발급
+- 캠페인 × 크리에이터 × 채널 조합으로 **유일한 ACTIVE 링크** 생성  
+- Slug 기반 외부 공개 URL: `/t/{slug}`  
+- 소유권/정합성 강제로 데이터 품질 보장  
+
+### 📊 클릭 수집 & 리다이렉트
+- `GET /t/{slug}` 요청 시 ClickLog 저장 후 302 Redirect  
+- IP, User Agent, Referer, 클릭 시각 자동 기록  
+- 비동기 로깅으로 리다이렉트 지연 최소화  
+
+### 📈 성과 분석 대시보드
+- 캠페인별/크리에이터별 클릭 통계 실시간 조회  
+- **조합별 성과 비교** (Creator × Channel, 0 클릭 포함)  
+- **채널 랭킹** Top-N  
+- 기간 필터링 (Today, Range, Total)  
+
+### ⚡ 성능 최적화
+- ClickLog 기간 집계 인덱스 (GROUP BY 쿼리 개선)  
+- TrackingLink ACTIVE 필터 인덱스 (JOIN 후보군 축소)  
+- Redis TTL 캐시 적용으로 DB 부하 감소  
+
+---
+
+## 🔄 핵심 플로우
+### 1. Click Tracking & Redirect
+![Redirect Flow](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/images/3-3-1flow-redirect-t-slug.png)
+
+### 2. Dashboard Statistics
+![Dashboard Stats Flow](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/images/3-3-2flow-dashboard-stats.png)
+
+### 3. UC-10 Performance Comparison
+![UC-10 Flow](https://raw.githubusercontent.com/brilliant13/creatorlink/main/docs/images/3-3-3flow-uc10-performance.png)
+
+---
+
+## 📂 프로젝트 구조
+```plaintext
+BE/
+├── src/
+│   ├── main/
+│   │   ├── java/com/jung/creatorlink/
+│   │   │   ├── domain/          # 도메인 엔티티
+│   │   │   ├── dto/              # 요청/응답 DTO
+│   │   │   ├── repository/       # JPA Repository
+│   │   │   ├── service/          # 비즈니스 로직
+│   │   │   └── controller/       # REST API 컨트롤러
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── application-staging.properties
+│   └── test/                     # 단위/통합 테스트
+├── scripts/
+│   └── k6/                       # 부하 테스트 스크립트
+├── docs/
+│   └── images/                   # 다이어그램 이미지
+├── docker-compose.yml
+├── Dockerfile
+└── build.gradle
+```
+
+---
+
+## ⚡ 실행 방법
+
+1. **환경 준비**
+```bash
+   # JDK 17, Docker, Docker Compose 설치 필요
+   java -version  # 17 이상 확인
+   docker --version
+```
+
+2. **레포지토리 클론**
+```bash
+   git clone https://github.com/brilliant13/creatorlink.git
+   cd creatorlink
+```
+
+3. **로컬 실행 (개발 환경)**
+```bash
+   ./gradlew bootRun
+   # 접속: http://localhost:8080
+```
+
+4. **Docker Compose 실행 (운영 환경)**
+```bash
+   docker-compose up -d
+   # MySQL + Redis + Spring App 동시 구동
+```
+
+5. **API 문서 확인**
+```bash
+   # Swagger UI 접속
+   http://localhost:8080/swagger-ui/index.html
+```
+
+6. **k6 부하 테스트 실행**
+```bash
+   k6 run --vus 100 --duration 5m scripts/mixed-traffic.js
+```
+
+---
+
+## 📊 성능 테스트 결과
+
+| Experiment | Description | Expected Impact |
+|------------|-------------|-----------------|
+| **E1** | ClickLog 기간 집계 인덱스 | GROUP BY 쿼리 성능 개선 |
+| **E2** | TrackingLink ACTIVE 필터 인덱스 | JOIN 후보군 축소 |
+| **E3** | UC-10 응답 Redis TTL 캐시 | DB 부하 감소, 응답 속도 향상 |
+
+**측정 지표**
+- Response Time: p50, p95, p99
+- Throughput: requests/sec
+- Database Connections: active/idle
+
+> 📊 현재 EC2 환경에서 k6 기반 성능 검증 진행 중
+
+---
+
+## 📚 결과 및 배운 점
+
+### 기술적 성장
+- **Spring Boot + JPA**를 활용한 RESTful API 설계 및 구현 경험
+- **MySQL 인덱스 설계**로 읽기/쓰기 트래픽 분리 최적화
+- **Redis 캐싱 전략**으로 집계 API 응답 속도 개선
+- **Docker Compose**를 이용한 멀티 컨테이너 배포 환경 구축
+- **k6 부하테스트**로 실험 기반 성능 개선 방법론 학습
+
+### 설계 역량
+- **Soft Delete 정책**으로 데이터 히스토리 보존 설계
+- **소유권 강제 검증**으로 데이터 정합성 보장
+- **ERD 설계**부터 API 구현까지 전체 백엔드 개발 사이클 경험
+- **트래픽 패턴 분석**(쓰기 중심 vs 읽기/집계 중심)을 통한 병목 분리
+
+### 문제 해결
+- EC2 배포 중 Spring Boot 환경변수 주입 문제 해결
+- 복잡한 GROUP BY 쿼리 성능 이슈를 인덱싱으로 해결
+- 0 클릭 조합 포함 요구사항을 LEFT JOIN으로 구현
+
+이 프로젝트는 **실제 B2B SaaS 백오피스**의 요구사항을 충족하는 백엔드 시스템입니다.  
+단순한 CRUD를 넘어, **성능 최적화, 배포 자동화, 부하 테스트**까지  
+실무에 필요한 백엔드 개발 역량을 종합적으로 쌓을 수 있었습니다.
+
+---
+
+## 🔗 관련 링크
+- **GitHub Repository**: [CreatorLink](https://github.com/brilliant13/creatorlink)
+- **API Documentation**: Swagger UI (`http://localhost:8080/swagger-ui/index.html`)
+- **프로젝트 상세**: [README.md](https://github.com/brilliant13/creatorlink/blob/main/README.md)
+
+---
+
+</details>
+
+
+
+
+
+
+
+
+
+
 > 2023.10 - 2023.12 라즈베리파이 미니 프로젝트 </br>
 
 <details>
