@@ -803,10 +803,14 @@ AI 튜터와의 실시간 대화를 통해 **몰입도 높은 학습 경험**을
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilliant13&label=Profile%20views&color=0e75b6&style=flat" alt="brilliant13" /> </p>
 -->
 
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" />
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brilliant13&layout=compact&theme=default&hide_border=false" height="180" alt="brilliant13 top langs" />-->
+  <!--<xximg src="https://github-readme-stats.vercel.app/api?username=brilliant13&show_icons=true&locale=en" alt="brilliant13" />-->
+ 
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=brilliant13&" alt="brilliant13" /> -->
+
+ <!--<xximg src="https://github-readme-stats.vercel.app/api/top-langs/?username=brilliant13&layout=compact&theme=default&hide_border=false" height="180" alt="brilliant13 top langs" />-->
+ 
 </div><br><br><br><br>
 
 
