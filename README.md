@@ -3,19 +3,35 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrilliant13&count_bg=%2389CFF0&title_bg=%23ADD8E6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
+## 👋 About Me
+> Backend-focused developer interested in scalable systems, performance optimization, and AI-powered applications.
+
+Hi, I'm **Woong Jung**, a software developer from South Korea.
+
+Originally majoring in chemistry, I later transitioned into computer engineering and developed a strong interest in backend development, system design, and problem solving.  
+I enjoy building practical software, experimenting with new technologies, and improving systems through implementation and performance optimization.
+My main areas of interest include:
+
+- **Backend development with Java and Spring Boot**
+- **Database design, caching, and performance tuning**
+- **AI-powered applications and on-device/offline systems**
+- **Algorithmic problem solving and strengthening computer science fundamentals**
 
 
-
+<!--
 ## 👋 About Me
 Hi, I'm Woong Jung, a passionate developer from South Korea.<br>
 I originally majored in chemistry but later switched to computer science. I love math and have experience working as a lecturer.<br>
 Currently, I'm deeply immersed in software development and absolutely loving it. I enjoy exploring various technologies, working on different projects, and preparing for coding challenges. I'm always eager to expand my skill set and grow as a developer by tackling diverse challenges.
 <br>
+-->
+<br>
 
 ## 🎓 Education
-<!-- 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University-->
-> 2022.03 - Present  
-> B.Sc. in Computer Engineering, Hansung University (Currently Enrolled)<br>
+<!-- 2020.03 - 2026.02 B.Sc. in Computer Engineering, Hansung University-->
+<!-- > 2022.03 - 2026.02   -->
+<!-- > B.Sc. in Computer Engineering, Hansung University <br> -->
+> B.Sc. in Computer Engineering, Hansung University (2022–2026)
 
  ## 🏆 Achievements and Experiences
 
