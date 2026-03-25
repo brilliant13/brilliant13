@@ -35,8 +35,56 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 
  ## 🏆 Achievements and Experiences
 
--&nbsp;[2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
+   <div>
+    <details>
+      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
+     <img src="https://github.com/brilliant13/portfolio/blob/43725ecc90d37965b0cfb2617312d16fc0f4a461/%5BQualcomm%5D.png" width="800"/>
+     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8F%E1%85%AF%E1%86%AF%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
+     
+    </details>
+ </div>
+   <div>
+    <details>
+      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
+     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
+    </details>
+ </div>
   <div>
+    <details>
+      <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상 </summary>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
+    </details>
+ </div>
+ <div>
+    <details>
+      <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 다우기술 기업연계 캡스톤 전시회 최우수상 </summary>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800"/>
+     <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg" width="400"/>
+    </details>
+ </div>
+  <div>
+    <details>
+      <summary>[2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) </summary>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg" width="400"/>
+    </details>
+ </div>
+  <div>
+    <details>
+      <summary>[2023. 05. 22] IBK 기업은행 장학생 선정 </summary>
+     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bibk%5D.jpg" width="400"/>
+    </details>
+ </div>
+ 
+  -&nbsp; [2023. 1,2학기, 2024. 1학기] 교내 성적 우수 장학생 선정 </summary>
+  
+
+
+ <!-- -&nbsp;[2023. 1,2학기, 2024. 1학기] 교내 성적 우수 장학생 선정 -->
+ 
+<!-- -&nbsp;[2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무 -->
+
+-&nbsp;[2021. 12. 06 - 2023. 11. 20] 고교 이과 수학학원 강사 및 개인 과외
+<div>
     <details>
       <summary>[2020. 01. 10] Appointed as Senior KATUSA at HHC, USAG-Y (리더십 경험) </summary>
      <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsenior%5Djpg.jpg" width="400"/>
@@ -47,52 +95,15 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
        <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%91%E1%85%AD%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC%5D.jpg" alt="Senior KATUSA Certificate" width="400"/>
     </details>
     
--&nbsp;[2021. 12. 06 - 2023. 11. 20] 고교 이과 수학학원 강사 및 개인 과외
- <div>
-    <details>
-      <summary>[2023. 05. 22] IBK 기업은행 장학생 선정 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bibk%5D.jpg" width="400"/>
-    </details>
- </div>
+   -&nbsp;[2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무 </summary>
 
--&nbsp;[2023. 1,2학기, 2024. 1학기] 교내 성적 우수 장학생 선정
- <div>
-    <details>
-      <summary>[2024. 11. 20] 국가우수(이공계) 장학생 선정 (4학기 등록금 전액 지원) </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%5D.jpg" width="400"/>
-    </details>
- </div>
-
- <div>
-    <details>
-      <summary>[2024. 11. 29] 제 1회 한성SW중심대학 페스티벌 다우기술 기업연계 캡스톤 전시회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="800"/>
-     <img src="https://github.com/brilliant13/portfolio/blob/main/sw.jpeg" width="400"/>
-    </details>
- </div>
-
-      
- <div>
-    <details>
-      <summary>[2025. 01. 15] 한성대학교 학술정보관 주최 독서 발표대회 최우수상 </summary>
-     <img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5B%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%5D.jpg" width="400"/>
-    </details>
- </div>
  
-  <div>
-    <details>
-      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 웹 부문 <strong>장려상</strong></summary>
-     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8B%E1%85%B0%E1%86%B8%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
-    </details>
- </div>
-   <div>
-    <details>
-      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
-     <img src="https://github.com/brilliant13/portfolio/blob/43725ecc90d37965b0cfb2617312d16fc0f4a461/%5BQualcomm%5D.png" width="800"/>
-     <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8F%E1%85%AF%E1%86%AF%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
-     
-    </details>
- </div>
+
+    
+
+
+
+
 <!-- 
 ### 🏆 Achievements and Experiences  
 - [2019. 03. 18 - 2020. 10. 20] USAG-Y 카투사 근무
@@ -164,35 +175,6 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 -->
 
 ## 👥 Team Projects  
-> 2024.09 - 2024.11 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
-
-<details>
-  <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
-  </summary>
-<img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="750" alt="best_dou"/><br>
-
- #### 📝 프로젝트 소개
-우리 프로젝트는 단순히 문자 서비스를 제공하는 것을 넘어, **사용자와 지인의 관계**와 **개인적인 특징**을 반영하여 더욱 의미 있는 교류를 가능하게 합니다. 지인의 성격,지인과의 추억, 말투, 관계를 사전에 설정하여, 형식적인 단체 문자 대신 **상대방이 직접 작성한 것처럼 느껴지는 따뜻한 메시지**를 보낼 수 있습니다.
-또한, 문자 내용에 따라 자동으로 이미지를 생성하거나, 직접 이미지를 업로드할 수 있어 **시각적으로 더욱 매력적인 메시지**를 전달할 수 있습니다.
- 
- #### 🌟 주요 기능
-- **개인 맞춤 문자 서비스**  
-  지인과의 관계, 지인의 특징, 말투 등을 설정하여 개인화된 문자를 작성 및 전송합니다.
-- **문자 및 이미지 자동 생성**  
-  입력한 텍스트를 기반으로 AI를 활용하여 문자와 이미지를 자동 생성합니다.
-- **이미지 업로드 및 관리**  
-  이미지를 업로드하거나, 드래그 앤 드롭 방식으로 간편히 추가할 수 있습니다.
-- **다양한 설정 옵션**  
-  메시지 톤, 감정, 배경 등을 선택하여 지인에게 최적화된 콘텐츠를 만듭니다.
-- **다중 사용자 관리**  
-  주소록에서 여러 명의 지인을 선택하여 각각 맞춤화된 메시지를 개별적으로 발송할 수 있습니다.
-
-#### 🖥️ 프로젝트 데모 영상
-  <a href="https://youtu.be/-emWRL2GOsk" target="_blank">
-  <img src="https://img.youtube.com/vi/-emWRL2GOsk/0.jpg" alt="데모 영상 썸네일" width="700"/>
-  </a>
-</details>
-
 > 2025.02 - 2025.05 한성대학교 캡스톤디자인 기업연계(Qualcomm) [팀:무무] </br>
 
 <details>
@@ -293,7 +275,35 @@ ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 
 ### DevOps & Collaboration
 - **GitHub**: 소스코드 버전 관리 및 협업
 - **CI/CD**: 자동화된 빌드 및 배포 파이프라인
-  
+</details>
+
+>2024.09 - 2024.11 한성SW중심대학 기업연계(다우기술) 캡스톤 [팀:best_dou] </br>
+
+<details>
+  <summary><strong>개인 맞춤형 문자 및 이미지 생성 서비스 "너를 위해" <a href="https://github.com/brilliant13/best_dou_front">best_dou</a></strong>
+  </summary>
+<img src="https://raw.githubusercontent.com/brilliant13/portfolio/refs/heads/main/%5Bsw%5D.jpg" width="750" alt="best_dou"/><br>
+
+ #### 📝 프로젝트 소개
+우리 프로젝트는 단순히 문자 서비스를 제공하는 것을 넘어, **사용자와 지인의 관계**와 **개인적인 특징**을 반영하여 더욱 의미 있는 교류를 가능하게 합니다. 지인의 성격,지인과의 추억, 말투, 관계를 사전에 설정하여, 형식적인 단체 문자 대신 **상대방이 직접 작성한 것처럼 느껴지는 따뜻한 메시지**를 보낼 수 있습니다.
+또한, 문자 내용에 따라 자동으로 이미지를 생성하거나, 직접 이미지를 업로드할 수 있어 **시각적으로 더욱 매력적인 메시지**를 전달할 수 있습니다.
+ 
+ #### 🌟 주요 기능
+- **개인 맞춤 문자 서비스**  
+  지인과의 관계, 지인의 특징, 말투 등을 설정하여 개인화된 문자를 작성 및 전송합니다.
+- **문자 및 이미지 자동 생성**  
+  입력한 텍스트를 기반으로 AI를 활용하여 문자와 이미지를 자동 생성합니다.
+- **이미지 업로드 및 관리**  
+  이미지를 업로드하거나, 드래그 앤 드롭 방식으로 간편히 추가할 수 있습니다.
+- **다양한 설정 옵션**  
+  메시지 톤, 감정, 배경 등을 선택하여 지인에게 최적화된 콘텐츠를 만듭니다.
+- **다중 사용자 관리**  
+  주소록에서 여러 명의 지인을 선택하여 각각 맞춤화된 메시지를 개별적으로 발송할 수 있습니다.
+
+#### 🖥️ 프로젝트 데모 영상
+  <a href="https://youtu.be/-emWRL2GOsk" target="_blank">
+  <img src="https://img.youtube.com/vi/-emWRL2GOsk/0.jpg" alt="데모 영상 썸네일" width="700"/>
+  </a>
 </details>
 <br>
 
@@ -514,14 +524,123 @@ BE/
 
 </details>
 
+> 2025.03 - 2025.05 iOS Term Project </br>
 
+<details>
+  <summary><strong>Korean to English "모국어 기반 AI 영어 학습 앱" <a href="https://github.com/brilliant13/korean-to-english-ios">korean-to-english-ios</a></strong></summary>
+  
+ # 📱 Korean to English (iOS Term Project)
 
+> **Storyboard + Swift 기반 영어 학습 애플리케이션**  
+> Firebase 백엔드와 OpenAI/Whisper API를 연동하여 **실시간 AI 튜터링, 발음 분석, 상황극 학습**을 제공하는 iOS 학습 앱
 
+---
 
+## 📖 프로젝트 소개
+- **프로젝트명**: Korean to English  
+- **개발환경**: Xcode, Swift, Storyboard 기반 UI  
+- **사용 기술**: Firebase (Authentication, Firestore), OpenAI GPT API, Whisper API, AVFoundation, Auto Layout  
+- **서버 타입**: Firebase (Realtime Database + Firestore)  
+- **제작자**: 정웅 (모바일 소프트웨어 트랙, 2271209)  
 
+**Korean to English**는 한국어 문장을 먼저 보고, 이를 영어로 말해보는 과정을 반복함으로써  
+자연스럽게 영어 문장 구성 능력과 회화 실력을 기를 수 있도록 설계된 **AI 영어 학습 앱**입니다.  
 
+기존의 영어 학습 앱들이 단순히 **영어 문장을 암기하거나 해석**하는 방식에 머물렀다면,  
+본 프로젝트는 **“한국어 → 의미 파악 → 영어로 표현 → AI 피드백”**이라는 학습 사이클을 중심으로 합니다.  
+이를 통해 학습자는 단순히 문장을 따라 말하는 것이 아니라,  
+스스로 영어 표현을 떠올리고 검증받으며 실력을 점진적으로 키워갈 수 있습니다.  
 
+앱은 매일 10개의 추천 문장을 제공하며, 영화·드라마 대사 기반의 상황극 기능과  
+AI 튜터와의 실시간 대화를 통해 **몰입도 높은 학습 경험**을 제공합니다.  
+특히 OpenAI API와 Whisper API를 활용하여 **발음 분석, 문법·표현 교정, 맞춤형 대화 시나리오**를 지원합니다.  
 
+한국어를 기반으로 영어를 생각하고 말하게 만드는 탁월한 학습법을 구현하어,
+기존의 암기식 학습을 넘어 모국어를 활용한 효과적인 실전 외국어 능력을 키우는 것을 목표로 합니다.
+
+---
+
+## ✨ 주요 기능
+### 📌 오늘의 문장 학습 (Daily Sentences)
+- 한국어 문장을 보고 영어로 말해보기  
+- 눈 모양 버튼 → 정답 영어 문장 확인  
+- 마이크 버튼 → Whisper API로 음성 인식 + 발음 정확도 분석  
+- 별 버튼 → 문장 북마크 저장  
+- 상단 ProgressView로 학습 진도 확인
+
+### 🎭 상황극 학습 (Role-play Scenarios)
+- 공항, 호텔, 카페, 직장 등 8가지 실제 상황 제공  
+- 단계별 대화 연습 + 음성 녹음/발음 피드백  
+- `+` 버튼 → AI가 실시간으로 새로운 상황극 생성
+
+### 💬 AI 튜터 대화
+- 주제(여행, 쇼핑, 비즈니스 등 6종) + 난이도(초/중/고급) 선택  
+- WhatsApp 스타일 UI에서 실시간 영어 대화  
+- 한국어 입력 시: 영어 번역 + 자연스러운 표현 추천  
+- 영어 입력 시: 문법/표현 피드백 제공
+
+### ⭐ 마이페이지 & 북마크
+- 학습 통계(연속 학습일, 문장 수, 대화 횟수 등) 확인  
+- 별표한 문장을 카테고리별 정리  
+- 스와이프 → 북마크 삭제 가능
+
+---
+
+## 🛠️ 기술적 구현
+- **AI 문장 생성**: GPT-4 API 기반, 매일 새로운 문장 자동 생성  
+- **발음 분석**: Whisper API + 레벤슈타인 거리 알고리즘으로 정확도 측정  
+- **실시간 데이터 동기화**: Firebase Firestore & Authentication  
+- **상황극 생성**: JSON 기반 AI 시나리오 생성  
+- **실시간 AI 튜터링**: 주제/난이도 기반 맞춤형 대화 
+- **동적 UI**: 메시지 길이에 따라 자동 조절되는 채팅 버블, Glassmorphism 효과 적용  
+
+---
+
+## 🖼️ 시연 영상
+[![시연 영상](https://img.youtube.com/vi/Rjp0F0laMuI/0.jpg)](https://youtu.be/Rjp0F0laMuI)  
+👉 클릭하면 시연 영상을 볼 수 있습니다.
+
+---
+
+## 📊 프로젝트 특징 & 성과
+- **Storyboard 기반 UI 설계**: Segue & Auto Layout으로 7개 화면 간 다양한 화면 이동 지원  
+- **실시간 AI 튜터링**: 대화 주제/난이도 설정, 실시간 채팅형 피드백 제공  
+- **발음 분석 알고리즘**: Whisper + 레벤슈타인 거리 기반 정확도 계산  
+- **동적 UI/UX**: 메시지 크기별 채팅 버블, Glassmorphism 채팅 인터페이스  
+- **데이터 동기화**: Firebase 실시간 학습 기록 관리  
+- **맞춤형 학습 경험**: AI가 생성하는 새로운 상황극으로 몰입도 향상
+
+---
+
+## ⚡ 실행 방법
+1. 저장소 클론
+   ```
+   bash
+   git clone https://github.com/username/korean-to-english.git
+   cd korean-to-english
+   ````
+2. Xcode에서 프로젝트 열기
+3. Firebase 설정 파일(`GoogleService-Info.plist`) 추가
+4. API 키(OpenAI/Whisper) 환경 변수 등록
+5. 시뮬레이터 또는 iOS 디바이스에서 실행
+
+---
+
+## 📚 배운 점 & 향후 개선
+
+* **AI 통합 경험**: GPT와 Whisper API를 활용한 학습 앱 개발 경험 축적
+* **Firebase 활용 능력**: 서버 없이도 사용자 인증, 데이터 동기화, 북마크 관리 경험
+* **발음 분석 개선 필요**: 텍스트 정규화 & 유사도 계산으로 정확도 개선했지만, Core ML 기반 온디바이스 모델 도입이 향후 과제
+* **UX 개선**: Gamification 요소(레벨, 뱃지, 학습 스트릭)와 소셜 기능 추가 예정
+
+본 프로젝트는 단순한 CRUD 앱을 넘어 **AI 기반 영어 학습 도구**로서의 가치를 구현했습니다.
+사용자는 한국어 문장을 기반으로 영어를 말해보고, 발음을 분석받고, 상황극과 대화를 통해 실시간으로 영어 실력을 향상시킬 수 있습니다.
+이는 iOS 프로그래밍과 AI 기술을 융합한 학습 경험의 좋은 사례가 되었으며,
+앞으로도 Core ML 게임화 요소·소셜 기능을 도입해 더 실용적이고 확장성 있는 앱으로 발전시킬 수 있습니다.
+
+---
+
+</details>
 
 > 2023.10 - 2023.12 라즈베리파이 미니 프로젝트 </br>
 
@@ -686,125 +805,6 @@ BE/
 ---
 
 </details>
-
-> 2025.03 - 2025.05 iOS Term Project </br>
-
-<details>
-  <summary><strong>Korean to English "모국어 기반 AI 영어 학습 앱" <a href="https://github.com/brilliant13/korean-to-english-ios">korean-to-english-ios</a></strong></summary>
-  
- # 📱 Korean to English (iOS Term Project)
-
-> **Storyboard + Swift 기반 영어 학습 애플리케이션**  
-> Firebase 백엔드와 OpenAI/Whisper API를 연동하여 **실시간 AI 튜터링, 발음 분석, 상황극 학습**을 제공하는 iOS 학습 앱
-
----
-
-## 📖 프로젝트 소개
-- **프로젝트명**: Korean to English  
-- **개발환경**: Xcode, Swift, Storyboard 기반 UI  
-- **사용 기술**: Firebase (Authentication, Firestore), OpenAI GPT API, Whisper API, AVFoundation, Auto Layout  
-- **서버 타입**: Firebase (Realtime Database + Firestore)  
-- **제작자**: 정웅 (모바일 소프트웨어 트랙, 2271209)  
-
-**Korean to English**는 한국어 문장을 먼저 보고, 이를 영어로 말해보는 과정을 반복함으로써  
-자연스럽게 영어 문장 구성 능력과 회화 실력을 기를 수 있도록 설계된 **AI 영어 학습 앱**입니다.  
-
-기존의 영어 학습 앱들이 단순히 **영어 문장을 암기하거나 해석**하는 방식에 머물렀다면,  
-본 프로젝트는 **“한국어 → 의미 파악 → 영어로 표현 → AI 피드백”**이라는 학습 사이클을 중심으로 합니다.  
-이를 통해 학습자는 단순히 문장을 따라 말하는 것이 아니라,  
-스스로 영어 표현을 떠올리고 검증받으며 실력을 점진적으로 키워갈 수 있습니다.  
-
-앱은 매일 10개의 추천 문장을 제공하며, 영화·드라마 대사 기반의 상황극 기능과  
-AI 튜터와의 실시간 대화를 통해 **몰입도 높은 학습 경험**을 제공합니다.  
-특히 OpenAI API와 Whisper API를 활용하여 **발음 분석, 문법·표현 교정, 맞춤형 대화 시나리오**를 지원합니다.  
-
-한국어를 기반으로 영어를 생각하고 말하게 만드는 탁월한 학습법을 구현하어,
-기존의 암기식 학습을 넘어 모국어를 활용한 효과적인 실전 외국어 능력을 키우는 것을 목표로 합니다.
-
----
-
-## ✨ 주요 기능
-### 📌 오늘의 문장 학습 (Daily Sentences)
-- 한국어 문장을 보고 영어로 말해보기  
-- 눈 모양 버튼 → 정답 영어 문장 확인  
-- 마이크 버튼 → Whisper API로 음성 인식 + 발음 정확도 분석  
-- 별 버튼 → 문장 북마크 저장  
-- 상단 ProgressView로 학습 진도 확인
-
-### 🎭 상황극 학습 (Role-play Scenarios)
-- 공항, 호텔, 카페, 직장 등 8가지 실제 상황 제공  
-- 단계별 대화 연습 + 음성 녹음/발음 피드백  
-- `+` 버튼 → AI가 실시간으로 새로운 상황극 생성
-
-### 💬 AI 튜터 대화
-- 주제(여행, 쇼핑, 비즈니스 등 6종) + 난이도(초/중/고급) 선택  
-- WhatsApp 스타일 UI에서 실시간 영어 대화  
-- 한국어 입력 시: 영어 번역 + 자연스러운 표현 추천  
-- 영어 입력 시: 문법/표현 피드백 제공
-
-### ⭐ 마이페이지 & 북마크
-- 학습 통계(연속 학습일, 문장 수, 대화 횟수 등) 확인  
-- 별표한 문장을 카테고리별 정리  
-- 스와이프 → 북마크 삭제 가능
-
----
-
-## 🛠️ 기술적 구현
-- **AI 문장 생성**: GPT-4 API 기반, 매일 새로운 문장 자동 생성  
-- **발음 분석**: Whisper API + 레벤슈타인 거리 알고리즘으로 정확도 측정  
-- **실시간 데이터 동기화**: Firebase Firestore & Authentication  
-- **상황극 생성**: JSON 기반 AI 시나리오 생성  
-- **실시간 AI 튜터링**: 주제/난이도 기반 맞춤형 대화 
-- **동적 UI**: 메시지 길이에 따라 자동 조절되는 채팅 버블, Glassmorphism 효과 적용  
-
----
-
-## 🖼️ 시연 영상
-[![시연 영상](https://img.youtube.com/vi/Rjp0F0laMuI/0.jpg)](https://youtu.be/Rjp0F0laMuI)  
-👉 클릭하면 시연 영상을 볼 수 있습니다.
-
----
-
-## 📊 프로젝트 특징 & 성과
-- **Storyboard 기반 UI 설계**: Segue & Auto Layout으로 7개 화면 간 다양한 화면 이동 지원  
-- **실시간 AI 튜터링**: 대화 주제/난이도 설정, 실시간 채팅형 피드백 제공  
-- **발음 분석 알고리즘**: Whisper + 레벤슈타인 거리 기반 정확도 계산  
-- **동적 UI/UX**: 메시지 크기별 채팅 버블, Glassmorphism 채팅 인터페이스  
-- **데이터 동기화**: Firebase 실시간 학습 기록 관리  
-- **맞춤형 학습 경험**: AI가 생성하는 새로운 상황극으로 몰입도 향상
-
----
-
-## ⚡ 실행 방법
-1. 저장소 클론
-   ```
-   bash
-   git clone https://github.com/username/korean-to-english.git
-   cd korean-to-english
-   ````
-2. Xcode에서 프로젝트 열기
-3. Firebase 설정 파일(`GoogleService-Info.plist`) 추가
-4. API 키(OpenAI/Whisper) 환경 변수 등록
-5. 시뮬레이터 또는 iOS 디바이스에서 실행
-
----
-
-## 📚 배운 점 & 향후 개선
-
-* **AI 통합 경험**: GPT와 Whisper API를 활용한 학습 앱 개발 경험 축적
-* **Firebase 활용 능력**: 서버 없이도 사용자 인증, 데이터 동기화, 북마크 관리 경험
-* **발음 분석 개선 필요**: 텍스트 정규화 & 유사도 계산으로 정확도 개선했지만, Core ML 기반 온디바이스 모델 도입이 향후 과제
-* **UX 개선**: Gamification 요소(레벨, 뱃지, 학습 스트릭)와 소셜 기능 추가 예정
-
-본 프로젝트는 단순한 CRUD 앱을 넘어 **AI 기반 영어 학습 도구**로서의 가치를 구현했습니다.
-사용자는 한국어 문장을 기반으로 영어를 말해보고, 발음을 분석받고, 상황극과 대화를 통해 실시간으로 영어 실력을 향상시킬 수 있습니다.
-이는 iOS 프로그래밍과 AI 기술을 융합한 학습 경험의 좋은 사례가 되었으며,
-앞으로도 Core ML 게임화 요소·소셜 기능을 도입해 더 실용적이고 확장성 있는 앱으로 발전시킬 수 있습니다.
-
----
-
-</details>
-
 
 
 ## 🌱 Coding Challenges
