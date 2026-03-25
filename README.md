@@ -88,7 +88,9 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
    <div>
     <details>
       <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 Qualcomm 기업연계 프로젝트 어플리케이션 부문 <strong>우수상</strong></summary>
+     <img src="https://github.com/brilliant13/portfolio/blob/43725ecc90d37965b0cfb2617312d16fc0f4a461/%5BQualcomm%5D.png" width="800"/>
      <img src="https://github.com/brilliant13/portfolio/blob/de4d89a0985fe6e6414c813629501db92dd0055e/%5B%E1%84%8F%E1%85%AF%E1%86%AF%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%89%E1%85%B3%E1%84%90%E1%85%A9%E1%86%AB%5D.jpg" width="400"/>
+     
     </details>
  </div>
 <!-- 
@@ -196,6 +198,7 @@ Currently, I'm deeply immersed in software development and absolutely loving it.
 <details>
   <summary><strong>온디바이스 지식그래프 기반 AI 지식 관리 앱 "BrainTrace" <a href="https://github.com/HS-MUMU/BrainTrace_OnDeviceAi?tab=readme-ov-file">MuMu</a></strong></summary>
  <img src="https://raw.githubusercontent.com/brilliant13/portfolio/main/30%E1%84%8C%E1%85%A9_%E1%84%86%E1%85%AE%E1%84%86%E1%85%AE%20%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png" width="750" alt="mu_mu"/>
+ <img src="https://github.com/brilliant13/portfolio/blob/43725ecc90d37965b0cfb2617312d16fc0f4a461/%5BQualcomm%5D.png" width="800"/>
  <br>
 
 
